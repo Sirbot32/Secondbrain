@@ -23,3 +23,4 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 - *Code: The Hidden Language of Computer Hardware and Software* — Charles Petzold. Builds up from binary and logic gates to a full computer; explains exactly how circuits implement Boolean operations.
 - *But How Do It Know?* — J. Clark Scott. No-technical-background walkthrough that starts from a single NAND gate and builds an entire working computer — directly addresses what a logic gate actually does.
 - *Logic: A Very Short Introduction* — Graham Priest. Covers formal logic basics, including validity vs. truth.
+- *The Art of Computer Programming, Vol. 2: Seminumerical Algorithms* — Donald Knuth. Dense, technical reference rather than casual reading, but has a real section (p.190-192) on balanced ternary as a working alternative number system to binary, and why it never won out in practice.
