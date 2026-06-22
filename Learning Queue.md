@@ -56,4 +56,4 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] What causes earthquakes — currently thinks it's "mantle rotation" (not a real geological mechanism); actually caused by tectonic plates grinding against each other at fault lines, building up stress that releases suddenly as seismic waves
 
 ## Astronomy
-- [ ] What causes the phases of the moon — no attempt made (question skipped)
+- [ ] What causes the phases of the moon — thinks it's "the moon casting a shadow when it enters our atmosphere" (the moon never enters Earth's atmosphere; this conflates phases with the separate, much rarer lunar-eclipse mechanism); correctly had that the sun only lights the half of the moon facing it, but missed that this half is *always* lit — phases come from the changing Earth-Moon-Sun angle as the moon orbits, which changes how much of that lit half is visible from Earth, not from the lit portion itself changing
