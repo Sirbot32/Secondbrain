@@ -11,3 +11,4 @@ created: 2026-06-22
 - [[Negative Exponents as Reciprocals]]
 - [[Fractional Exponents as Roots]]
 - [[Median Resistance to Outliers]]
+- [[Irrational Numbers]]

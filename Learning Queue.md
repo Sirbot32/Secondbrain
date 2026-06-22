@@ -11,6 +11,7 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] What training data for large language models (e.g. ChatGPT) actually consists of, and what a "token" is
 - [ ] The actual technical mechanism behind AI hallucination (beyond "lacks instinct") — i.e. statistical generation without built-in truth-verification
 - [ ] Which specific math functions are actually used in neural nets (e.g. tanh = hyperbolic tangent, not trig tangent; sigmoid relates to log) vs. which (plain sine/cosine) aren't generally relevant outside niche cases like transformer positional encoding
+- [ ] What overfitting is in a machine learning model — no attempt made
 
 ## Philosophy
 - [ ] Boethius's classical solution to the foreknowledge problem — God perceiving all of time at once (not sequential foreknowledge) — as a distinct answer from the fourth-dimension/eternalism framing

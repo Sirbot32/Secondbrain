@@ -13,3 +13,4 @@ created: 2026-06-22
 - [[Utilitarianism vs Deontology]]
 - [[Limits of Utilitarian Aggregation]]
 - [[Trolley Problem Switch vs Push]]
+- [[Occam's Razor]]
