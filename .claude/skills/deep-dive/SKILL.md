@@ -1,11 +1,19 @@
 ---
 name: deep-dive
-description: Conduct a structured knowledge-capture interview about a broad topic the user brings up (e.g. "stocks", "linear algebra"), surface what they already know vs. don't know, and write the results into this Obsidian vault as atomic notes plus a Learning Queue entry, committed to git. Use this whenever the user wants to "deep dive", "do a knowledge dump", explicitly invokes /deep-dive <topic>, or says things like "let's go through what I know about X" or "help me figure out my gaps in X."
+description: Conduct a structured knowledge-capture interview about a broad topic the user brings up (e.g. "stocks", "linear algebra"), surface what they already know vs. don't know, and write the results into this Obsidian vault as atomic notes plus a Learning Queue entry, committed to git. Also handles the reverse flow — directly teaching specific Learning Queue gaps so they can be checked off. Use this whenever the user wants to "deep dive", "do a knowledge dump", explicitly invokes /deep-dive <topic>, says things like "let's go through what I know about X" or "help me figure out my gaps in X", or asks to "teach me the gaps" / "explain my gaps" / "help me learn X from the Learning Queue."
 ---
 
 # Deep Dive: Knowledge Capture Interview
 
-This skill runs a structured interview to find out what the user actually knows about a topic, write the confirmed parts into this vault as atomic notes, and record the gaps separately so they're not lost. The point isn't to teach the user the topic — it's to get what's already in their head onto paper (accurately), and to make the holes visible and trackable.
+This skill runs in one of two modes.
+
+**Interview mode** (default) — find out what the user actually knows about a topic, write the confirmed parts into this vault as atomic notes, and record the gaps separately so they're not lost. The point isn't to teach the user the topic — it's to get what's already in their head onto paper (accurately), and to make the holes visible and trackable. Steps 1-7 below cover this mode.
+
+**Teach-the-gaps mode** ("teach me the gaps", "explain my gaps", "help me learn X") — the reverse flow: instead of asking what the user knows, directly explain specific `Learning Queue.md` items so they can be checked off.
+1. Don't try to cover every open gap in one sitting. Work through one topic's section (or a user-specified subset) at a time, and check in before moving to the next topic.
+2. Explain each item clearly and concisely. For non-trivial items, end the explanation with one short check question that requires *applying* the concept, not just restating it back (e.g. after explaining binary place-value, ask "so what's decimal 5 in binary?").
+3. Only change `[ ]` to `[x]` once the user has actually demonstrated the concept back correctly — not just because it was explained. If they get the check question wrong, leave it unchecked and correct it.
+4. Commit and push the updated `Learning Queue.md` the same way as Step 7 (current branch only, never `main`).
 
 ## Step 1 — Identify the topic and load existing context
 
