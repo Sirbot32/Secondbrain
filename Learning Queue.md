@@ -26,3 +26,11 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] Why prime numbers matter for encryption specifically, beyond the basic "only divisible by 1 and itself" definition
 - [ ] What a limit is, in the calculus sense (the concept that precedes derivatives)
 - [ ] The precise definition of a function (exactly one output per input) and how to test whether a given equation satisfies it — initially conflated "function" with "linear equation" / "outputs only real numbers," and misapplied the correct rule when tested against a circle equation (x² + y² = 1)
+
+## Logic
+- [ ] The precise definition of the NOT operator (single input, inverts true to false and false to true) — answer was unclear/incomplete
+- [ ] How binary place-value actually works (powers of 2) — e.g. decimal 2 = binary "10", decimal 3 = binary "11" — attempts to write these out were incorrect
+- [ ] Why two-state (binary) circuits are preferred in hardware over multi-state ones — the deeper engineering reason (simplicity/reliability of two-state switches), beyond "it plugs into logic gates"
+- [ ] What a logic gate physically/mechanically does inside a chip (e.g. how transistors implement AND/OR/NOT via voltage)
+- [ ] The difference between an argument's validity and the truth of its conclusion (formal logic)
+- [ ] The formal name for the fallacy just correctly diagnosed by reasoning alone: "affirming the consequent"

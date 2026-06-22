@@ -18,3 +18,8 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 ## Math
 - *Calculus Made Easy* — Silvanus P. Thompson. Classic, conceptual (not just formula-driven) introduction to derivatives and limits.
 - *The Code Book* — Simon Singh. History of cryptography that explains, in plain terms, why large primes are what make modern encryption (e.g. RSA) work.
+
+## Logic
+- *Code: The Hidden Language of Computer Hardware and Software* — Charles Petzold. Builds up from binary and logic gates to a full computer; explains exactly how circuits implement Boolean operations.
+- *But How Do It Know?* — J. Clark Scott. No-technical-background walkthrough that starts from a single NAND gate and builds an entire working computer — directly addresses what a logic gate actually does.
+- *Logic: A Very Short Introduction* — Graham Priest. Covers formal logic basics, including validity vs. truth.
