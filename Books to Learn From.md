@@ -24,3 +24,4 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 - *But How Do It Know?* — J. Clark Scott. No-technical-background walkthrough that starts from a single NAND gate and builds an entire working computer — directly addresses what a logic gate actually does.
 - *Logic: A Very Short Introduction* — Graham Priest. Covers formal logic basics, including validity vs. truth.
 - *The Art of Computer Programming, Vol. 2: Seminumerical Algorithms* — Donald Knuth. Dense, technical reference rather than casual reading, but has a real section (p.190-192) on balanced ternary as a working alternative number system to binary, and why it never won out in practice.
+- *An Illustrated Book of Bad Arguments* — Ali Almossawi. Short, visual catalog of named logical fallacies — good fit for telling apart similar-looking ones like affirming the consequent vs. false equivalence.
