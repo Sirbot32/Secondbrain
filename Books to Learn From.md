@@ -25,3 +25,10 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 - *Logic: A Very Short Introduction* — Graham Priest. Covers formal logic basics, including validity vs. truth.
 - *The Art of Computer Programming, Vol. 2: Seminumerical Algorithms* — Donald Knuth. Dense, technical reference rather than casual reading, but has a real section (p.190-192) on balanced ternary as a working alternative number system to binary, and why it never won out in practice.
 - *An Illustrated Book of Bad Arguments* — Ali Almossawi. Short, visual catalog of named logical fallacies — good fit for telling apart similar-looking ones like affirming the consequent vs. false equivalence.
+
+## History
+- *The Fall of Rome: And the End of Civilization* — Bryan Ward-Perkins. Accessible, archaeology-backed account of why and how the Western Roman Empire actually fell.
+- *Magna Carta: The Birth of Liberty* — Dan Jones. Direct, narrative history of what the Magna Carta was and why it mattered, from a bestselling medieval historian.
+- *The Renaissance: A Very Short Introduction* — Jerry Brotton. Covers the Renaissance's actual timeframe (1400-1600) and origins, beyond the vague "art movement" framing.
+- *1776* — David McCullough. Narrative history of the actual year and the Revolutionary War, untangling it from the separate question of when the presidency began.
+- *The Second World War* — Antony Beevor. Comprehensive narrative starting from the actual trigger — Hitler's invasion of Poland — through to the war's end.

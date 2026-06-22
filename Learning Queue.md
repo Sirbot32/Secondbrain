@@ -35,3 +35,10 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] The difference between an argument's validity and the truth of its conclusion (formal logic) — currently conflates "invalid" with "always false"; also tried to give an invalid-but-true-conclusion example but gave two unrelated statements with no actual inference between them, not an argument at all
 - [ ] The formal name for the fallacy just correctly diagnosed by reasoning alone: "affirming the consequent" — applied to a new example ("divisible by 4 → even, 6 is even, therefore 6 is divisible by 4") but misnamed it "false equivalence"; re-asked, not yet re-attempted
 - [ ] How ternary (base-3) computing actually worked in practice (e.g. the Setun computer's "trits" valued -1/0/+1, balanced ternary) — correctly explained *why* binary won out (noise margins), but the "how it actually worked" half is still unaddressed
+
+## History
+- [ ] Why and roughly when the Western Roman Empire fell — no attempt made
+- [ ] What the Magna Carta is and why it matters — no attempt made
+- [ ] The exact timeframe of the Renaissance (started 14th century, not 17th) — origin country (Italy) was correct, century was not, even after a retry
+- [ ] The Declaration of Independence (1776) vs. George Washington's first presidential inauguration (1789) — currently conflated into a single 1776 date
+- [ ] The specific immediate trigger of WWII (Germany's invasion of Poland, September 1939) as distinct from its underlying causes (Great Depression, Hitler's rise) — causes were correctly identified but not the actual triggering event; also called the 1938 Anschluss a "reunification" of Austria and Germany rather than an annexation
