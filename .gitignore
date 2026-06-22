@@ -1,0 +1,10 @@
+# Obsidian device-specific / local state (not meant to sync across devices)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+.obsidian/app.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
