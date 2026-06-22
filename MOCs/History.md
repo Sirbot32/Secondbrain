@@ -10,3 +10,4 @@ created: 2026-06-22
 - [[Assassination of Franz Ferdinand]]
 - [[Cold War]]
 - [[The Renaissance]]
+- [[Manhattan Project]]

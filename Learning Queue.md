@@ -12,6 +12,8 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] The actual technical mechanism behind AI hallucination (beyond "lacks instinct") — i.e. statistical generation without built-in truth-verification
 - [ ] Which specific math functions are actually used in neural nets (e.g. tanh = hyperbolic tangent, not trig tangent; sigmoid relates to log) vs. which (plain sine/cosine) aren't generally relevant outside niche cases like transformer positional encoding
 - [ ] What overfitting is in a machine learning model — no attempt made
+- [ ] What a "loss function" is in machine learning — no attempt made
+- [ ] What the Turing Test is — no attempt made
 
 ## Philosophy
 - [ ] Boethius's classical solution to the foreknowledge problem — God perceiving all of time at once (not sequential foreknowledge) — as a distinct answer from the fourth-dimension/eternalism framing
@@ -36,6 +38,8 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] The difference between an argument's validity and the truth of its conclusion (formal logic) — currently conflates "invalid" with "always false"; also tried to give an invalid-but-true-conclusion example but gave two unrelated statements with no actual inference between them, not an argument at all
 - [ ] The formal name for the fallacy just correctly diagnosed by reasoning alone: "affirming the consequent" — applied to a new example ("divisible by 4 → even, 6 is even, therefore 6 is divisible by 4") but misnamed it "false equivalence"; re-asked, not yet re-attempted
 - [ ] How ternary (base-3) computing actually worked in practice (e.g. the Setun computer's "trits" valued -1/0/+1, balanced ternary) — correctly explained *why* binary won out (noise margins), but the "how it actually worked" half is still unaddressed
+- [ ] What a syllogism is — no attempt made
+- [ ] The difference between deductive and inductive reasoning — defined deductive reasoning as "taking what information you have and creating a conclusion," which is generic enough to also describe inductive reasoning; missing the actual distinguishing feature (deductive: true premises *guarantee* a true conclusion; inductive: premises only make the conclusion probable). Inductive reasoning — no attempt made at all
 
 ## History
 - [ ] Why and roughly when the Western Roman Empire fell — no attempt made
@@ -46,3 +50,10 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] Who Hammurabi was and what the Code of Hammurabi actually established — no attempt made
 - [ ] Why the Berlin Wall specifically came down in 1989 (Gorbachev-era reforms loosening Soviet control, mass Eastern Bloc protests, a confused East German announcement crowds acted on immediately) — correctly knew civilians tore it down, but not the actual causal chain
 - [ ] When the Industrial Revolution started (mid-to-late 18th century, i.e. the 1700s — not the 17th century/1600s) and one concrete way it changed labor (e.g. shift from agrarian/craft work to factory wage labor) — hedged between two centuries and gave only a vague "changed how we viewed labor" answer
+- [ ] What the Treaty of Versailles actually did (imposed harsh reparations and a "war guilt" clause on Germany, redrew European borders, created the League of Nations) — self-corrected to the right basic facts (the WWI-ending treaty, signed at Versailles, not WWII or Paris), but the actual terms/consequences are still a gap
+
+## Earth Science
+- [ ] What causes earthquakes — currently thinks it's "mantle rotation" (not a real geological mechanism); actually caused by tectonic plates grinding against each other at fault lines, building up stress that releases suddenly as seismic waves
+
+## Astronomy
+- [ ] What causes the phases of the moon — no attempt made (question skipped)
