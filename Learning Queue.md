@@ -20,3 +20,9 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] Doctrine of double effect (harm as side-effect vs. harm as direct means) as the formal explanation for the trolley switch/push intuition split
 - [ ] Kant's means/ends formula ("never use a person merely as a means to an end") as it applies to the trolley push case
 - [ ] Theodicy / problem of evil — the standard arguments for why an all-powerful, good being would allow suffering, and how they relate to (or could rebut) the foreknowledge/fairness argument — flagged as adjacent but not yet explored
+
+## Math
+- [ ] What a derivative actually measures (the concept of rate of change, before the formula)
+- [ ] Why prime numbers matter for encryption specifically, beyond the basic "only divisible by 1 and itself" definition
+- [ ] What a limit is, in the calculus sense (the concept that precedes derivatives)
+- [ ] The precise definition of a function (exactly one output per input) and how to test whether a given equation satisfies it — initially conflated "function" with "linear equation" / "outputs only real numbers," and misapplied the correct rule when tested against a circle equation (x² + y² = 1)

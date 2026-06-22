@@ -14,3 +14,7 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 - *Reasons and Persons* — Derek Parfit. Source of the aggregation/separateness-of-persons critique of utilitarianism.
 - *Groundwork of the Metaphysics of Morals* — Immanuel Kant. Primary source for the means/ends formula relevant to the trolley push variant; also covers the deontological framework underlying the doctrine of double effect.
 - *God, Freedom, and Evil* — Alvin Plantinga. Standard philosophy-of-religion text on theodicy and the free will defense against the problem of evil.
+
+## Math
+- *Calculus Made Easy* — Silvanus P. Thompson. Classic, conceptual (not just formula-driven) introduction to derivatives and limits.
+- *The Code Book* — Simon Singh. History of cryptography that explains, in plain terms, why large primes are what make modern encryption (e.g. RSA) work.
