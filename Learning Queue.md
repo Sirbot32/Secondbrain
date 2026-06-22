@@ -57,3 +57,6 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 
 ## Astronomy
 - [ ] What causes the phases of the moon — thinks it's "the moon casting a shadow when it enters our atmosphere" (the moon never enters Earth's atmosphere; this conflates phases with the separate, much rarer lunar-eclipse mechanism); correctly had that the sun only lights the half of the moon facing it, but missed that this half is *always* lit — phases come from the changing Earth-Moon-Sun angle as the moon orbits, which changes how much of that lit half is visible from Earth, not from the lit portion itself changing
+
+## Geography
+- [ ] What causes the seasons — opened with the "closer to the sun = warmer" distance misconception, then described axial tilt as one hemisphere "facing the sun closer" rather than receiving more direct/concentrated sunlight and more daylight hours; did correctly have that the hemispheres are out of phase (northern winter = southern summer). Actual cause: Earth's ~23.5° axial tilt changes the angle sunlight hits each hemisphere and day length, not physical distance to the sun (Earth is actually closest to the sun during Northern Hemisphere winter)
