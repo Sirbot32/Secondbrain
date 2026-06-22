@@ -93,11 +93,24 @@ For the "gaps" bucket from Step 2:
 2. Before adding each gap, skim the existing bullets (checked and unchecked) under that topic's section and skip anything that's substantively the same gap already listed.
 3. Phrase each gap as a concrete, specific thing to learn, not a vague topic — bad: "options"; good: "How options pricing (Black-Scholes basics) actually works." Specific phrasing is what makes the queue actually actionable later, rather than a list of topic names the user will have to re-derive context for.
 
-## Step 6 — Commit and push (no auto-merge)
+## Step 6 — Update the book lists
 
-Once the MOC, atomic notes, and Learning Queue are updated:
+Maintain two standing root-level notes, both living documents updated incrementally across sessions (same pattern as `Learning Queue.md`):
 
-1. `git add` exactly the files changed or created this session (the MOC, the new/edited atomic notes, `Learning Queue.md` if it changed) — avoid a blanket `git add -A` so nothing unrelated gets swept in.
+- `Books of Interest.md` — books matching topics the user showed genuine interest in this session, regardless of whether the topic landed as confirmed knowledge or a gap. Append under a `## <Topic>` header (reuse it if it already exists).
+- `Books to Learn From.md` — books that map directly to specific entries just added to `Learning Queue.md` this session. Not every gap needs a book — skip it if you don't have a confident, real recommendation. Don't force a 1:1 mapping just to fill space.
+
+Rules for both:
+1. Only recommend books you're confident actually exist with the title/author as stated. If you're not sure of exact bibliographic details, verify with WebSearch before writing it into the vault — a hallucinated title/author in a permanent reference note defeats the purpose.
+2. Same structure as `Learning Queue.md`: no frontmatter, `## <Topic>` headers, one bullet per book formatted as `*Title* — Author. <one-line note on why it's relevant>`.
+3. Create the file at the vault root with just the one-line header description (see existing files for the exact wording) if it doesn't exist yet.
+4. Skip a book if it's already listed under that topic's section in the relevant file.
+
+## Step 7 — Commit and push (no auto-merge)
+
+Once the MOC, atomic notes, Learning Queue, and book lists are updated:
+
+1. `git add` exactly the files changed or created this session (the MOC, the new/edited atomic notes, `Learning Queue.md`, `Books of Interest.md`, `Books to Learn From.md` — whichever actually changed) — avoid a blanket `git add -A` so nothing unrelated gets swept in.
 2. Commit with a message summarizing the session, e.g. `Deep dive: Stocks — add 6 notes, 3 learning gaps`. Keep it one line; no need for a body.
 3. Push to the **current branch** (`git push`, or `git push -u origin <branch>` if the branch has no upstream yet — check with `git status` first). Never merge, rebase onto, or push to `main`/`master` — the user explicitly merges these themselves later. If `git push` fails because there's no upstream tracking branch, set it with `-u` rather than trying to push to a different branch.
 4. Tell the user what was committed and pushed (file count, branch name) so they know it's safely captured, and remind them it's on their working branch awaiting their manual merge into `main` — don't imply this has reached `main`.
