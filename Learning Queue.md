@@ -11,3 +11,12 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 - [ ] What training data for large language models (e.g. ChatGPT) actually consists of, and what a "token" is
 - [ ] The actual technical mechanism behind AI hallucination (beyond "lacks instinct") — i.e. statistical generation without built-in truth-verification
 - [ ] Which specific math functions are actually used in neural nets (e.g. tanh = hyperbolic tangent, not trig tangent; sigmoid relates to log) vs. which (plain sine/cosine) aren't generally relevant outside niche cases like transformer positional encoding
+
+## Philosophy
+- [ ] Boethius's classical solution to the foreknowledge problem — God perceiving all of time at once (not sequential foreknowledge) — as a distinct answer from the fourth-dimension/eternalism framing
+- [ ] Block universe / eternalism as a named view in philosophy of time
+- [ ] Compatibilism (the standard version — redefining "free" as "uncoerced," with no dimensional/eternalism framework needed at all)
+- [ ] The aggregation problem / separateness-of-persons critique of utilitarianism — the named version of the torture-case objection already worked out independently
+- [ ] Doctrine of double effect (harm as side-effect vs. harm as direct means) as the formal explanation for the trolley switch/push intuition split
+- [ ] Kant's means/ends formula ("never use a person merely as a means to an end") as it applies to the trolley push case
+- [ ] Theodicy / problem of evil — the standard arguments for why an all-powerful, good being would allow suffering, and how they relate to (or could rebut) the foreknowledge/fairness argument — flagged as adjacent but not yet explored
