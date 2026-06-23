@@ -4,7 +4,7 @@ Persistent backlog of things I want to build or set up. Check items off (change 
 
 - [ ] Create a dashboard to handle multiple agents at once, heavy on customization
   - Time to profit: 9-15 months — buildable MVP in 3-5 months, but the agent-orchestration space (LangGraph Studio, CrewAI, Relevance AI, etc.) is crowded and well-funded; realistic path to profit is a narrow, "heavy customization for power users" wedge rather than competing head-on, similar risk profile to the multi-agent council idea below but framed as a sellable product instead of personal tooling
-- [ ] Create a master prompt template to reuse across every project
+- [ ] Create personality prompts for local agents
   - Time to profit: N/A — internal productivity tool, no direct revenue path
 - [ ] Build a chess-playing Telegram bot
   - Time to profit: 6-12 months to first dollar, if ever — market is saturated with strong free bots (lichess, chess.com); realistic ceiling is hobby/tip income, not a living
