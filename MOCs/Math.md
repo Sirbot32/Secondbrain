@@ -12,3 +12,6 @@ created: 2026-06-22
 - [[Fractional Exponents as Roots]]
 - [[Median Resistance to Outliers]]
 - [[Irrational Numbers]]
+- [[Division by Zero]]
+- [[Logarithm]]
+- [[Correlation vs Causation]]
