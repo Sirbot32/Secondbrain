@@ -60,3 +60,6 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 
 ## Geography
 - [ ] What causes the seasons — opened with the "closer to the sun = warmer" distance misconception, then described axial tilt as one hemisphere "facing the sun closer" rather than receiving more direct/concentrated sunlight and more daylight hours; did correctly have that the hemispheres are out of phase (northern winter = southern summer). Actual cause: Earth's ~23.5° axial tilt changes the angle sunlight hits each hemisphere and day length, not physical distance to the sun (Earth is actually closest to the sun during Northern Hemisphere winter)
+
+## Computer Science
+- [ ] The difference between vertical and horizontal scaling — no attempt made
