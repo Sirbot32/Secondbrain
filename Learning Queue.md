@@ -63,3 +63,39 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 
 ## Computer Science
 - [ ] The difference between vertical and horizontal scaling — no attempt made
+- [ ] Kubernetes — no attempt made
+- [ ] Docker — no attempt made
+- [ ] Staging (environments) — no attempt made
+- [ ] SQS (Amazon Simple Queue Service) — no attempt made
+- [ ] S3 (Amazon S3) — no attempt made
+- [ ] Cherry pick (git) — no attempt made
+- [ ] Containerisation — no attempt made
+- [ ] CI/CD — no attempt made
+- [ ] Cloud computing — no attempt made
+- [ ] Encryption — no attempt made
+- [ ] Firewall — no attempt made
+- [ ] FTP — no attempt made
+- [ ] Web sockets — no attempt made
+- [ ] TensorFlow — no attempt made
+- [ ] Kafka / RabbitMQ (message queues) — no attempt made
+- [ ] Database fundamentals — no attempt made
+- [ ] Database optimisation — no attempt made
+- [ ] Serverless — no attempt made
+- [ ] PyCharm — no attempt made
+- [ ] Lambda (AWS Lambda) — no attempt made
+- [ ] DynamoDB — no attempt made
+- [ ] Deployments — no attempt made
+- [ ] Embedded database — no attempt made
+- [ ] Rate limiting — no attempt made
+- [ ] Error logging — no attempt made
+- [ ] QPS (queries per second) — no attempt made
+- [ ] Load balancer — no attempt made
+- [ ] Caching — no attempt made
+- [ ] Proxy — no attempt made
+- [ ] Availability (system design) — no attempt made
+- [ ] Throughput — no attempt made
+- [ ] RPC — no attempt made
+- [ ] Long / short polling — no attempt made
+- [ ] Sharding — no attempt made
+- [ ] Partitioning — no attempt made
+- [ ] Git / GitHub — no attempt made
