@@ -7,3 +7,4 @@ Persistent backlog of things I want to build or set up. Check items off (change 
 - [ ] Build a chess-playing Telegram bot
 - [ ] Set up Ollama and add memory/persistence to it
 - [ ] Build a Digg-like app that scrapes the most relevant news stories — UI note: keep it minimal, avoid the "AI-looking" UI look
+- [ ] Create a way to store Obsidian notes on the cloud from computer to phone, free
