@@ -4,10 +4,10 @@ Persistent list of things I've identified I don't know or am unsure about. Check
 
 ## Stocks
 - [ ] How order-flow imbalance actually moves price in the order book — currently has the direction backwards: thinks a large sell order pushes price *up* and a large buy order pushes price *down*. Actually: a large sell order eats through the bid stack top-down (price falls), a large buy order eats through the ask stack bottom-up (price rises). Resource: [Orders and the order book — Optiver](https://www.optiver.com/explainers/orders-and-the-order-book/)
-- [ ] What market cap is and how it's calculated — not yet asked
-- [ ] What a P/E ratio is trying to tell you — not yet asked
-- [ ] What short selling is and why its risk profile differs from a normal long trade — not yet asked
-- [ ] The difference between a stock split and an actual change in company value — not yet asked
+- [ ] What market cap is and how it's calculated — not yet asked. Resource: [Market Cap Explained — FINRA](https://www.finra.org/investors/insights/market-cap)
+- [ ] What a P/E ratio is trying to tell you — not yet asked. Resource: [What Is the P/E Ratio? — Charles Schwab](https://www.schwab.com/learn/story/stock-analysis-using-pe-ratio)
+- [ ] What short selling is and why its risk profile differs from a normal long trade — not yet asked. Resource: [Short Selling: The Risks and Rewards — Charles Schwab](https://www.schwab.com/learn/story/ins-and-outs-short-selling)
+- [ ] The difference between a stock split and an actual change in company value — not yet asked. Resource: [Stock Splits — FINRA](https://www.finra.org/investors/investing/investment-products/stocks/stock-splits)
 
 ## AI
 - [ ] How multiple inputs combine at a single neuron (weighted sum + bias) before the activation function
