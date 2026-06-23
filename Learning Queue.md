@@ -2,6 +2,13 @@
 
 Persistent list of things I've identified I don't know or am unsure about. Check items off (change `[ ]` to `[x]`) once learned — don't delete them, so there's a record.
 
+## Stocks
+- [ ] How order-flow imbalance actually moves price in the order book — currently has the direction backwards: thinks a large sell order pushes price *up* and a large buy order pushes price *down*. Actually: a large sell order eats through the bid stack top-down (price falls), a large buy order eats through the ask stack bottom-up (price rises). Resource: [Orders and the order book — Optiver](https://www.optiver.com/explainers/orders-and-the-order-book/)
+- [ ] What market cap is and how it's calculated — not yet asked
+- [ ] What a P/E ratio is trying to tell you — not yet asked
+- [ ] What short selling is and why its risk profile differs from a normal long trade — not yet asked
+- [ ] The difference between a stock split and an actual change in company value — not yet asked
+
 ## AI
 - [ ] How multiple inputs combine at a single neuron (weighted sum + bias) before the activation function
 - [ ] What activation functions (sigmoid, tanh, ReLU) are and why they're needed (introducing non-linearity)
