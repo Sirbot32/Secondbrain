@@ -1,0 +1,67 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"topic\":\"English\"]",
+      "color": { "a": 1, "rgb": 16711680 }
+    },
+    {
+      "query": "[\"topic\":\"Math\"]",
+      "color": { "a": 1, "rgb": 255 }
+    },
+    {
+      "query": "[\"topic\":\"Biology\"]",
+      "color": { "a": 1, "rgb": 51200 }
+    },
+    {
+      "query": "[\"topic\":\"Chemistry\"]",
+      "color": { "a": 1, "rgb": 51340 }
+    },
+    {
+      "query": "[\"topic\":\"History\"]",
+      "color": { "a": 1, "rgb": 16768000 }
+    },
+    {
+      "query": "[\"topic\":\"Computer Science\"]",
+      "color": { "a": 1, "rgb": 46280 }
+    },
+    {
+      "query": "[\"topic\":\"AI\"]",
+      "color": { "a": 1, "rgb": 53930 }
+    },
+    {
+      "query": "[\"topic\":\"Logic\"]",
+      "color": { "a": 1, "rgb": 6574310 }
+    },
+    {
+      "query": "[\"topic\":\"Philosophy\"]",
+      "color": { "a": 1, "rgb": 11154150 }
+    },
+    {
+      "query": "[\"topic\":\"Psychology\"]",
+      "color": { "a": 1, "rgb": 9881630 }
+    },
+    {
+      "query": "[\"topic\":\"Economics\"]",
+      "color": { "a": 1, "rgb": 16747520 }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.35,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 11,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
