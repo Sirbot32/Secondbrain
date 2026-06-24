@@ -9,4 +9,4 @@ status: confirmed
 
 True and false are just an on/off electrical state — that mapping is what lets boolean logic run directly on physical hardware (voltage high = true/on, voltage low = false/off).
 
-Related: [[Boolean AND]], [[Boolean OR]]
+Related: [[Boolean AND]], [[Boolean OR]], [[Hardware vs Software]]

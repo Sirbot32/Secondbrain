@@ -11,3 +11,4 @@ WWI's underlying causes were the web of alliances and secret treaties that pulle
 
 Note: "Yugoslavia" did not exist yet in 1914 — the relevant country was Serbia. Yugoslavia wasn't formed until after WWI.
 
+Related: [[Assassination of Franz Ferdinand]]
