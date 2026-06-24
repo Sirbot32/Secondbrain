@@ -2,6 +2,9 @@
 
 Persistent list of things I've identified I don't know or am unsure about. Check items off (change `[ ]` to `[x]`) once learned — don't delete them, so there's a record.
 
+## System Design
+- [ ] Race conditions / data consistency in distributed systems — already correctly identified the problem (two servers receiving an update at the same time, only one sticking) without knowing the formal name. Resource: [The Art of Staying in Sync: How Distributed Systems Avoid Race Conditions — Medium](https://medium.com/@alexglushenkov/the-art-of-staying-in-sync-how-distributed-systems-avoid-race-conditions-f59b58817e02)
+
 ## Stocks
 - [ ] How order-flow imbalance actually moves price in the order book — currently has the direction backwards: thinks a large sell order pushes price *up* and a large buy order pushes price *down*. Actually: a large sell order eats through the bid stack top-down (price falls), a large buy order eats through the ask stack bottom-up (price rises). Resource: [Orders and the order book — Optiver](https://www.optiver.com/explainers/orders-and-the-order-book/)
 - [ ] What market cap is and how it's calculated — not yet asked. Resource: [Market Cap Explained — FINRA](https://www.finra.org/investors/insights/market-cap)
