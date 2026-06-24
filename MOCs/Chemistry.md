@@ -8,3 +8,6 @@ created: 2026-06-22
 
 ## Notes
 - [[Atom vs Molecule]]
+- [[Sky Color (Rayleigh Scattering)]]
+- [[Weather vs Climate]]
+- [[Mass vs Weight]]

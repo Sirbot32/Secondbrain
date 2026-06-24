@@ -32,3 +32,15 @@ Books mapped to specific gaps logged in [[Learning Queue]] — read these to clo
 - *The Renaissance: A Very Short Introduction* — Jerry Brotton. Covers the Renaissance's actual timeframe (1400-1600) and origins, beyond the vague "art movement" framing.
 - *1776* — David McCullough. Narrative history of the actual year and the Revolutionary War, untangling it from the separate question of when the presidency began.
 - *The Second World War* — Antony Beevor. Comprehensive narrative starting from the actual trigger — Hitler's invasion of Poland — through to the war's end.
+
+## Computer Science
+- *Grokking Algorithms* — Aditya Bhargava. Visual, beginner-friendly coverage of Big O notation, stacks, queues, and core data structures/algorithms.
+
+## Economics
+- *Naked Economics* — Charles Wheelan. Plain-language coverage of inflation/deflation, interest rates, GDP, and how central banks operate.
+
+## Psychology
+- *Thinking, Fast and Slow* — Daniel Kahneman. Direct coverage of cognitive biases including confirmation bias and the broader reasoning failures the Dunning-Kruger effect sits alongside.
+
+## Philosophy (additional)
+- *Think: A Compelling Introduction to Philosophy* — Simon Blackburn. Covers moral relativism vs. objectivism and the Ship of Theseus identity puzzle in an accessible format.

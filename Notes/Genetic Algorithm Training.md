@@ -11,4 +11,4 @@ When there's no labeled "correct" output to learn from — like training a bot t
 
 This is a real training method (a genetic/evolutionary algorithm), but it's not how most large neural networks — including LLMs — are actually trained. That's typically done with backpropagation/gradient descent instead (see Learning Queue).
 
-Related: [[Neural Network Weight]]
+Related: [[Neural Network Weight]], [[Natural Selection]]
