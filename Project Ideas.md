@@ -8,6 +8,8 @@ Persistent backlog of things I want to build or set up. Check items off (change 
 - [ ] Set up Ollama and add memory/persistence to it
 - [ ] Build a Digg-like app that scrapes the most relevant news stories — UI note: keep it minimal, avoid the "AI-looking" UI look
 - [ ] Create a way to store Obsidian notes on the cloud from computer to phone, free
+- [ ] Flock camera wire in
+- [ ] Currency exchange trader
 
 ## AI Service Offers (productized, to build/sell)
 - [ ] AI Inbound Receptionist — Pro tier, $500–$15K
